@@ -1,0 +1,22 @@
+*{
+    font-family: 'Pacifico', cursive;
+    color: rgb(91, 123, 194);
+}
+
+h1{
+    text-decoration: underline;
+}
+.fa-play, .fa-redo-alt{
+    color: rgb(64, 115, 158);
+    
+
+}
+.timer{
+   
+    border: 5px solid rgb(53, 59, 72);
+    border-radius: 80rem;
+}
+
+.done{
+    height: 30vh;
+}
